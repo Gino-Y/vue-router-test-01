@@ -12,10 +12,6 @@
     <button @click="toPage('Reg')">Reg</button>
 
     <router-view/>
-    <router-view name="user02"/>
-    <router-view name="user03"/>
-    <router-view name="user04"/>
-    <router-view name="user05"/>
   </div>
 </template>
 
